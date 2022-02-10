@@ -19,7 +19,7 @@ body {
 /* HEADER / NAV BAR STYLES START */
 
 header {
-  padding: 20px 35px;
+  padding: 10px 35px;
   background-color: var(--tertiary-color);
   display: flex;
   justify-content: space-between;
